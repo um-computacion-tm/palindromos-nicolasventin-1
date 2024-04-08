@@ -1,6 +1,6 @@
 import unittest
 
-from folder_is_palindrome.is_palindrome import is_palindrome
+from is_palindrome import is_palindrome
 
 class TestIsPalindrome(unittest.TestCase):
     def test_with_a(self):
